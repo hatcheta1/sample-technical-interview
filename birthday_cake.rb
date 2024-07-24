@@ -69,8 +69,6 @@ class BirthdayCake
     puts "Blowing out candles..."
     birthday_cake.blow_out_candles
     puts birthday_cake.to_s
-
-    #birthday_cake
   end
 end
 
